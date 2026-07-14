@@ -1,18 +1,18 @@
 <a href="https://win-money.click/?brand=Eclipse&source=github.com" target="_blank">
-<img width="274" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Eclipse-1B5E20?style=plastic" />
+<img width="459" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Eclipse-00897B?style=for-the-badge" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=Eclipse&source=github.com" target="_blank">
-<img width="146" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Eclipse-1B5E20?style=plastic" />
+<img width="245" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Eclipse-00897B?style=for-the-badge" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=Eclipse&source=github.com" target="_blank">
-<img width="178" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Eclipse-1B5E20?style=plastic" />
+<img width="298" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Eclipse-00897B?style=for-the-badge" />
 </a>
 
-![Eclipse](334-4871.png)
+![Eclipse](33-6482.png)
 
 <h2>Eclipse Casino: Ваш навигатор в мире азарта ☘️</h2>
 <p>Ищете надежное онлайн-казино с разнообразным ассортиментом игр и удобным доступом? Данное руководство поможет сориентироваться в особенностях Eclipse Casino, предоставляя практическую информацию для вашего комфортного игрового опыта.</p>
